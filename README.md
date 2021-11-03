@@ -1,6 +1,6 @@
 ### Todos exercise
 
-This test is a part of our hiring process at bitboundaire for frontend positions.
+This test is a part of our hiring process at Bitboundaire for frontend positions.
 
 Your task is to create a todo list app.
 
